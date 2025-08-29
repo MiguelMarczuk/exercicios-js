@@ -1,37 +1,22 @@
-# exercicios-js
-Projetos e exerciciso de JavaScript
-# Exercício 13 - Calculadora
+# Exercícios de JavaScript
 
-Este projeto é um exercício de JavaScript que cria uma calculadora funcional com HTML, CSS e JS. A calculadora permite realizar operações matemáticas básicas, além de oferecer algumas funcionalidades extras, como troca de tema e copiar resultado para a área de transferência.
+Repositório com exercícios e projetos de JavaScript feitos durante meus estudos. Aqui você encontrará desde exercícios básicos de lógica até projetos mais avançados manipulando DOM e usando classes.
 
-## Funcionalidades
+## Conteúdo
 
-- **Operações matemáticas**: Soma, subtração, multiplicação, divisão, porcentagem e uso de parênteses.
-- **Entrada via teclado e botões**: É possível digitar números e operadores tanto pelo teclado quanto clicando nos botões.
-- **Botão C**: Limpa o input e mantém o foco para continuar digitando.
-- **Botão =**: Calcula o resultado da expressão inserida.
-- **Controle de erro**: Mostra "ERROR" se a expressão não for válida.
-- **Copiar resultado**: Permite copiar o resultado para a área de transferência.
-- **Troca de tema**: Alterna entre tema claro e escuro.
-
-## Estrutura do projeto
-
-
-
+- **arrays/**: exercícios com arrays, manipulação e métodos.
+- **array-advanced/**: exercícios mais avançados com arrays.
+- **calculator/**: projeto de calculadora básica.
+- **dom-manipulation/**: exercícios de manipulação do DOM.
+- **tic-tac-toe/**: jogo da velha (tic-tac-toe) em JavaScript.
+- **form-validation-dom/**: exemplos de validação de formulários via DOM.
+- **functions/**: exercícios com funções JavaScript.
+- **classe-dom/**: exercícios de classes aplicadas a personagens.
+- **classe-instances/**: exemplos de instâncias de classes.
 
 ## Como usar
 
-1. Abra o arquivo `index.html` em um navegador.
-2. Use os botões ou o teclado para digitar a expressão.
-3. Pressione `=` ou `Enter` para calcular.
-4. Pressione `C` para limpar.
-5. Clique em "Copy" para copiar o resultado.
-6. Use o botão "Trocar Tema" para alternar entre claro e escuro.
+1. Clone o repositório:
+```bash
+git clone https://github.com/MiguelMarczuk/exercicios-js.git
 
-## Observações
-
-- O cálculo é feito utilizando a função `eval()` do JavaScript, portanto evite inserir expressões complexas ou perigosas que possam comprometer a segurança.
-- Esta é uma implementação simples para fins de aprendizado.
-
----
-Feito por **Miguel Marczuk** como parte dos exercícios de JavaScript.
