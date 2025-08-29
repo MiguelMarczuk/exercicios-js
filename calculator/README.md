@@ -1,5 +1,3 @@
-# exercicios-js
-Projetos e exerciciso de JavaScript
 # Exercício 13 - Calculadora
 
 Este projeto é um exercício de JavaScript que cria uma calculadora funcional com HTML, CSS e JS. A calculadora permite realizar operações matemáticas básicas, além de oferecer algumas funcionalidades extras, como troca de tema e copiar resultado para a área de transferência.
