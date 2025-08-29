@@ -6,7 +6,7 @@ Repositório com exercícios e projetos de JavaScript feitos durante meus estudo
 
 - **arrays/**: exercícios com arrays, manipulação e métodos.
 - **array-advanced/**: exercícios mais avançados com arrays.
-- **calculator/**: projeto de calculadora básica.
+- **calculator/**: projeto de calculadora com CSS Avamçado.
 - **dom-manipulation/**: exercícios de manipulação do DOM.
 - **tic-tac-toe/**: jogo da velha (tic-tac-toe) em JavaScript.
 - **form-validation-dom/**: exemplos de validação de formulários via DOM.
